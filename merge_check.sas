@@ -1,8 +1,5 @@
 %let pgm=merge_check;
 
-
-
-/*
 SAS Forum: Must matching variable attributes be identical when using proc sql to create tables?
 
 the code and message is at
