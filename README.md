@@ -1,7 +1,7 @@
 # utl_merge_check
 Check tables before merge
 
-    ``` Must matching variable attributes be identical when using proc sql to create tables?               ```
+    ``` Check tables before merge               ```
     ```                                                                                                    ```
     ``` the code and message is at                                                                         ```
     ``` https://www.dropbox.com/s/qkylzvc49hef3hz/merge_check.sas?dl=0                                     ```
